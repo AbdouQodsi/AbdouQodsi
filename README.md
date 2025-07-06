@@ -10,7 +10,7 @@
 <img align="right" height="150" src="https://abdellahqodsi.com/assets/img/logo/logo-01.png"  />
 
 ###
-
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
-
+-->
 ###
 
 <div align="left">
